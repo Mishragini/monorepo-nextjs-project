@@ -19,6 +19,8 @@
     "packages/*"
   ],
   "dependencies": {
+    "@types/mongoose": "^5.11.97",
+    "mongoose": "^8.0.1",
     "yarn": "^1.22.21"
   }
 }
